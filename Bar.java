@@ -1,5 +1,5 @@
 public class Bar {
   public void speak() {
-    System.out.println("Hey there!");
+    System.out.println("Hey there, human!");
   }
 }
